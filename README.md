@@ -2,7 +2,6 @@
   Fix Upload Bocor Coova-Chilli
 </h1>
 
-
 Copy Paste Ke `Terminal`
 ---
 
