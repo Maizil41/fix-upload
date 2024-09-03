@@ -3,7 +3,7 @@
 </h1>
 
 
-Cara Install
+Copy Paste Ke `Terminal`
 ---
 
 ```
